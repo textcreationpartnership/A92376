@@ -1,0 +1,240 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the siege laid and raised again before Malmoo, by the Danish army in the year 1677</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92376</idno>
+            <idno type="STC">Wing R867A</idno>
+            <idno type="STC">ESTC R213696</idno>
+            <idno type="EEBO-CITATION">99895593</idno>
+            <idno type="PROQUEST">99895593</idno>
+            <idno type="VID">153285</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92376)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153285)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2358:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the siege laid and raised again before Malmoo, by the Danish army in the year 1677</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed 1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy filmed at UMI microfilm Early English Books 1641-1700 reel 2358 cropped, affecting imprint.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Länsresidenset (Malmö, Sweden) --  Early works to 1800.</term>
+               <term>Scanian War, 1675-1679 --  Campaigns --  Denmark --  Early works to 1800.</term>
+               <term>Denmark --  History --  Christian V, 1670-1699 --  Early works to 1800.</term>
+               <term>Sweden --  History --  Charles XI, 1660-1697 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153285:1"/>
+            <pb facs="tcp:153285:1"/>
+            <pb facs="tcp:153285:2"/>
+            <pb facs="tcp:153285:2"/>
+            <pb facs="tcp:153285:3"/>
+            <pb facs="tcp:153285:3"/>
+            <p>A RELATION OF THE SIEGE LAID and RAISED again BEFORE MALMOO, BY THE Daniſh Army In the Year 1677.</p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153285:4"/>
+            <pb n="3" facs="tcp:153285:4"/>
+            <head>A Relation of the Siege Laid and Raiſed again before <hi>MALMOO, &amp;c.</hi>
+            </head>
+            <p>WHen his Excellency the Field-Marſhal and General Gover<g ref="char:EOLhyphen"/>nour <hi>Van Ferſen</hi> was ſafely returned the 28th day of <hi>May</hi> into <hi>Malmoo,</hi> from the Camp at <hi>Ronneberga,</hi> and well knew that His Majeſty of <hi>Sweden</hi> had an intention to draw himſelf ſomething back towards the old Limits of <hi>Swede<g ref="char:EOLhyphen"/>land,</hi> for to joyn with his other Troops, that had kept there their Winter-quarters, made immediately his eſtimate, that the Enemy would lay hold on ſuch an advantageous a time; having freſh Men and great Forces, for the conquering of <hi>Malmoo,</hi> the moſt impor<g ref="char:EOLhyphen"/>tant Place of the Dukedom of <hi>Schonen:</hi> And therefore immediately diſpatched his Orders into the Countrey about <hi>Yſtad</hi> and <hi>Trelleborg,</hi> for thoſe Troops that as yet ſtayed there in their Quarters, to come in to him, and to avoid a ſurprizal by the Enemy: Whereupon ſome of the ſaid Troops came in, but ſome neglected to do it; which, if they be come to our Army, or have been intercepted by the Enemy, we as yet do not know: And his Excellency having brought along with him into <hi>Malmoo</hi> Garriſon the Garriſon of <hi>Borby,</hi> ſent alſo his Order to the Lieutenant of the <hi>Gedinger Fort</hi> to come into him which he alſo readily obeyed unto: This being done, his Excellency muſtered all the Forces, as well Foot as Horſe, that were in the For<g ref="char:EOLhyphen"/>treſs, and formed certain Troops thereof, under the Command of ſuch Officers, as then were in <hi>Malmoo,</hi> diſtributed the ſeveral Poſts upon the Caſtle and in Town amongſt them, and recommanding to them as well the reparation as the defence thereof, exhorted them al<g ref="char:EOLhyphen"/>together to an undaunted Courage and Loyalty to their King and Sovereign; and furniſhed all the Poſts with a ſufficient and requiſite a quantity of all ſorts of Ammunition and Arms, that ſo by an un<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>expected Attack no want might be in any place: After this he or<g ref="char:EOLunhyphen"/>dered the Burghers with all ſorts of Engines to have a care of any fi<g ref="char:EOLhyphen"/>ring, and put every where things in ſo regular a way and order, tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> every man, as well by day as by night, could know his ſtation, and
+<pb n="4" facs="tcp:153285:5"/>what he was to do: Further more did he engage all thoſe Officers, that were in Town, by an Obligation under Oath, not to think of any Ca<g ref="char:EOLhyphen"/>pitulation, much leſs to ſpeak thereof, or to ſuffer, that any body ſhould ſpeak about it, but to defend the place to the utmoſt for His Majeſties ſervice. His Excellency alſo did diſpoſe, in caſe of morta<g ref="char:EOLhyphen"/>lity, about the ſucceſſion in his Command, for to avoid any confuſion and neglect of due defence. On the 6th day of <hi>June</hi> the Enemy did appear upon <hi>Kirsberg</hi> before <hi>Malmoo,</hi> early in the Morning, with Eight Squadrons, under the Command of Major General <hi>Walter,</hi> and took ſome Cattel away; continued his ſtation till Noon by <hi>Skerewe<g ref="char:EOLhyphen"/>ling,</hi> and about Evening drew up towards <hi>Hukansdorff,</hi> where he lod<g ref="char:EOLhyphen"/>ged himſelf and diſtributed his Sentinels. The 7th of <hi>June</hi> came more Troops down by the way of <hi>Lunden,</hi> with whom was the Ge<g ref="char:EOLhyphen"/>nerals-Staff, and did ſeek out the approaches of the Caſtle, and about <hi>Limhambn.</hi> In the Afternoon Major General <hi>Walter</hi> ſent a Trumpet to our Horſe-Guard, and demanded in the King his Maſters name the exchange of Priſoners; whereupon our Governour ſent back to him by a Trumpet a project of the deſired Exchange. On the 8th <hi>ditto</hi> did moſt of their Troops by break of day draw up to <hi>Limhambn,</hi> and ſome other Troops came down from <hi>Lunden:</hi> About 7 a clock in the Evening came one Daniſh Manof War before <hi>Malmoo.</hi> The 9th <hi>ditto</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame the Enemies whole Army, Cavalry, Artillery, and Infantry, con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſting in 23 Battallions, marching down from <hi>Lunden,</hi> and encamped <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom <hi>Skrewelingen</hi> up till <hi>Holle.</hi> The 10th <hi>ditto,</hi> in the Morning, did <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Enemy fire nine Guns upon the Caſtle and Town, which was an<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wered with four of ours from the Baſtion of <hi>Malmoo,</hi> againſt their <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>amp under the Long Mountain: The ſame day came another Da<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſh Man of War to anchor before <hi>Malmoo,</hi> and in the Evening a Da<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſh Cavalier was brought in Priſoner. On the 11th <hi>ditto</hi> the Enemy <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dged himſelf before the Caſtle and the Eaſt and South Gates, open<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d his Trenches, and made his Batteries upon all the Poſts. In the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orning, the Adjutant of Duke <hi>de Croy's</hi> Regiment was brought in <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſoner, who made large ſpeeches of the Enemies great Forces and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſigns. In the Afternoon there was another Priſoner brought in, be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nging to the <hi>Munſter</hi> Troops; and about the ſame time did the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nemy fire ſome Guns into the Town before the South Gate, and
+<pb n="5" facs="tcp:153285:5"/>wrought very hard about all them three places; cauſing many Faſ<g ref="char:EOLhyphen"/>ſins to be carried by the Countrey-people for their purpoſe. On the 12th <hi>ditto</hi> did the Enemy advance with his Works very notably. On the 13th he did the like, and all the night over was continually fired upon their Workmen. On the 14th advanced the Enemy with his Work upon all the Poſts very conſiderably, and there was a terrible ſhooting on both ſides: By break of day did the Enemy endeavour to make himſelf Maſter of our hidden way, but was repulſed with loſs. The Enemy continued his Works on the 15th <hi>ditto,</hi> but the Gover<g ref="char:EOLhyphen"/>nour cauſed a Sally to be made by 150 Horſe upon their Workmen a<g ref="char:EOLhyphen"/>bout the Caſtle, who killed many of them, and return'd without any loſs. In the Morning there were thrown before the South-Gate ſome Granadoes out of little Mortar-pieces, and ſome Pieces of Cannon brought up to the Batteries before the South and Eaſt Gates. On the 16th <hi>ditto</hi> the Enemy continued his Works before the ſaid Gates, and made a Redout about the Shore: In the Evening they did beſet their approaches a great deal ſtronger than ever they had done be<g ref="char:EOLhyphen"/>fore. On the 17th the Enemy did approach very hard, chiefly about the South-Gate, and flung divers Granadoes; but about the Caſtle and the Eaſt Gate, did our Horſe-guard often allarm him, and hinder him in his Works: Beſides, there was continually fired from the three Poſts, and ſtones flung by the Mortar-pieces upon the Workmen: To day did the Enemy very furiouſly fire into the Town, but, God be praiſed, without doing any harm. On the 18th at night, when the Enemy began to work, his Excellency gave order to allarm him by our Cavalry before the Caſtle and Eaſt-Gate, but before the South-Gate he cauſed a Sally to be made by the Regiments-Quarter-Maſter <hi>Williamſon</hi> with 60 Cavaliers, who were a foot, and provided with Pi<g ref="char:EOLhyphen"/>ſtols and Short-Pikes; and this was done with ſo good a ſucceſs, that they beat the Enemy out of his Lines, killed very many of them, and brought Major <hi>Rockling,</hi> with Lieut. <hi>Bulow</hi> and four Common Sol<g ref="char:EOLhyphen"/>diers, Priſoners into the Town. In the Morning did the Enemy be<g ref="char:EOLhyphen"/>gin to throw Granadoes out of three Mortar-Pieces into the Caſtle, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd threw this day 42 Granadoes and 6 Fire-balls, but without doing <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny harm. On the 19th <hi>ditto</hi> there was little done, onely the Enemy <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id ſtregnthen his Lines, and beſet them more than ordinary, fearing
+<pb n="6" facs="tcp:153285:6"/>a further Sally. In the Morning about five a Clock did our Gover<g ref="char:EOLhyphen"/>nour at the Shore by the Eaſt-Gate, make a Sally with 250 Horſe and 150 Muſqueteers, under the Command of Lieutenant Collonel <hi>Wachmeyſter,</hi> upon Major General <hi>Bibow</hi>'s Poſt, and beat them out fo their Lines and one Redout, killed above one hundred, amongſt whom there were many Officers; the Muſqueteers took Captain <hi>Ropſtorff</hi> of Prince <hi>George's</hi> Regiment, and ſome Common Soldiers Priſoners: On our ſide was ſlain Captain Lieutenant <hi>Crutſch</hi> of the Vickiſh Regiment, one Cavalier, and one Muſqueteer. On the 20th <hi>ditto</hi> the Enemy continued very eagerly his Works upon all the Poſts, ſtrengthened his Lines, and flung ſeveral Bombes into the Caſtle, but without any hurt. The 21th <hi>ditto</hi> the Enemy did ſtill go on with his Works, began early in the Morning to fire upon the Baſtion of <hi>Mal<g ref="char:EOLhyphen"/>moo,</hi> and threw 14 Granadoes into the Caſtle, but without doing harm. On the 22th <hi>ditto,</hi> about Midnight, the Enemy having given the Signal with Cannons upon all their Poſts, fell with great violence and fury upon the Counterſcarps; but was beat off with a great loſs in all the places: yet they did lodge themſelves before <hi>Stockholm</hi>-Baſtion upon the Eſplanade, before the South-Gate they ran with their Line out of the Traverſe into the Meadows. By break of day the Enemy did fire from all the Batteries very hard, and flang very many Bombes into the Caſtle. In the Afternoon came two French men running over from their Camp, and informed that<g ref="char:punc">▪</g> they had loſt upon their Poſt before the Caſtle in this Attack above 300 men, and that every Night very many had been killed in their Works. The 23th <hi>ditto</hi> did the Enemy fling in the Night 42, and in the Day time 32 Bombes, but without any effect, fired from all the Batte<g ref="char:EOLhyphen"/>ries, and continued his Works. On the 24th they threw again in the Night 27 Bombes, ſhot from the Batteries, and very hotly purſued their Works againſt the Caſtle and the South-Gate: About the Eaſt-Gate, under the <hi>Stockholm</hi>-Baſtion they lodged themſelves upon the Breaſt-work of the hidden way, and made a Buttery there. On the 25th <hi>ditto</hi> did the Enemy work very hard at Night before the Ca<g ref="char:EOLhyphen"/>ſtle, and drew a New Line from the Shore againſt the Damm, and threw 12 Bombes, but without doing any harm. About the South-Gate they drew yet a New Line before the Right Face of the Rave<g ref="char:EOLhyphen"/>lin,
+<pb n="7" facs="tcp:153285:6"/>and played hard with their Cannons. Before the <hi>Stockholm</hi>-Ba<g ref="char:EOLhyphen"/>ſtion we did not perceive any New Works, but they ſtrengthened their other Works, and advanced towards the Ditch. In the Day-time did they throw 20 Granadoes into the Caſtle, but without any conſide<g ref="char:EOLhyphen"/>rable harm. This Evening was Captain <hi>Norman</hi> ſhot through his head with two Bullets, whereof he immediately died. In the Night the Enemy was obſerved to march hard in all the Approaches, and to be extraordinary buſie in all Preparations, whereby our Governour did conclude, that the Enemy deſigned a general Attack and Storm; and therefore according to his cuſtom, which he kept Day and Night, did ride about all the Poſts, and having diſpoſed the Artille<g ref="char:EOLhyphen"/>ry, Infantry, and Cavalry in a good order and poſture, encouraged them all to a ſtout and brave reſiſtance: About Midnight the Enemy began upon all the Poſts round about the Town and the Caſtle, on eight places at once, with all his Infantry and Dragoons to ſtorm; and ſhot during the ſaid Storm 42 Granadoes into the Caſtle. The Storm was very obſtinate, and laſted till the Morning; and although the Enemy had made himſelf Maſter of the Works about the Shore-Gate (wherein Captain <hi>Matherne</hi> courageouſly fighting, was killed) as alſo had taken Poſt by the Counterguard and before the <hi>Stock<g ref="char:EOLhyphen"/>holme</hi>-Baſtion, and beſides had already paſſed the Ditch betwixt <hi>Go<g ref="char:EOLhyphen"/>thenborough</hi> and <hi>Malmoo,</hi> and between <hi>Malmoo</hi> and <hi>Norkioping,</hi> and climbed up the Wall with ſeveral hundred men, and alſo made himſelf Maſter of the Caponiere before the Ravelin of the Caſtle, yet by the Divine aſſiſtance, and by our Governours great ca<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and the Officers and Common Soldiers good Conduct and Courage, hath he been beaten off and repulſed from all the Poſts with a very great Loſs as well of Men, as alſo of many Tinn and Woodden Pon<g ref="char:EOLhyphen"/>tons, which are now laid up in the Caſtle. In the Afternoon the Enemy did deſire a Truce, for to bury the Dead, which our Go<g ref="char:EOLhyphen"/>vernour, for that time, for certain and important reaſons, did re<g ref="char:EOLhyphen"/>fuſe to grant. The next following Day, <hi>viz.</hi> the 27th <hi>ditto,</hi> they again deſired an Armiſtice for to bury their Dead, which then accord<g ref="char:EOLhyphen"/>ingly upon certain Conditions was granted; and there were a great number of Dead Corpſes from the Wall; the Ditch, and the Hid<g ref="char:EOLhyphen"/>den Ways delivered to them, which they took and preſently bu<g ref="char:EOLhyphen"/>ried:
+<pb n="8" facs="tcp:153285:7"/>amongſt whom there was many Officers. By thoſe that are taken Priſoners, and by the Deſerters, We are informed, that Ma<g ref="char:EOLhyphen"/>jor General Duke <hi>Van Croy</hi> and Major General <hi>Bibow,</hi> as alſo Col<g ref="char:EOLhyphen"/>lonels <hi>Buſh, Keller, Warnſtett, Meldom,</hi> and <hi>Ramſtett,</hi> and the Lieutenant Collonels <hi>Pleſs, Bruneker,</hi> and ſome others, whoſe Names we not as yet do know; and many Majors, Captains, Lieu<g ref="char:EOLhyphen"/>tenants, and Enſigns, are killed; Collonel <hi>Brokhouſen,</hi> Collonel <hi>Schulenburg,</hi> and ſeveral others are ſore wounded. The Regi<g ref="char:EOLhyphen"/>ments of Guards, Prince <hi>Georges, Weyhers, Walters, Schonberghs, Shulenburghs, Baudiſes, Grandvillers,</hi> and Count <hi>Tecklenburghs,</hi> are totally ruined; wherefore alſo, according to the Deſerters re<g ref="char:EOLhyphen"/>port, they have been fain to make a reduction of their Foot, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o form one Battalion out of three. According to their unanimous re<g ref="char:EOLhyphen"/>port, we hear that the Enemy hath loſt above 4000 Men in that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>torm, and that all his Foot is ruined. It is to be wondered at, that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Enemy had perſwaded himſelf ſo firmly about the good ſucceſs of that general Storm, that the next Day after (by break of Day) a<g ref="char:EOLhyphen"/>bove 60 Galliots, Yachts, and Ketches, hath been ſeen on the Shore <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ide, which were arrived for to carry the hopes Booty to <hi>Copenha<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en;</hi> but meeting with no other than the ſharp Salute of our Guns, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey were obliged to go back as empty as they came. On the 28th <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itto</hi> was obſerved a great noiſe in the Enemies Approaches, when <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey carried off their Cannon: About the Evening they drew their <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſen out of the Approaches before the South and Eaſt Gates, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ept only at the end thereof their Centinels. The <hi>Munſter</hi> Troops <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ept as yet their Poſts beſet, but did not continue in their Works. On the 29th <hi>ditto</hi> there was likewiſe obſerved much noiſe of Wag<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons going to and fro in the Night. On the 30th did the Munſte<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ans burn their Approaches, and quitted them; the Camp as yet <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d ſtand, and we were hard at work, for to raze the Approaches. <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he 5th of <hi>July</hi> about Noon the Enemy broke up for good and all, <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t fire to the Camp, and bent his March towards <hi>Lunden;</hi> but <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d left ſome Regiments about <hi>Lamhambn,</hi> which likewiſe the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ext following Day in the Morning, with all the Veſſels that lay <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ere, removed and followed the Army.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153285:7"/>
+            <pb facs="tcp:153285:8"/>
+            <pb facs="tcp:153285:8"/>
+            <pb facs="tcp:153285:9"/>
+            <pb facs="tcp:153285:9" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
